@@ -1,17 +1,8 @@
 # web-scraping-challenge 
 
-  *    .  *       .             *
-                         *
- *   .        *       .       .       *
-   .     *
-           . :orange_circle: *        *
-       .                .        .
-.  *           *                     *
-                             .
-         *          .   *
-
+ 
 -----------------------------------------
-##Table of Contents
+## Table of Contents
 * [Objectives](#objectives)
 * [Technologies](#technologies)
 
@@ -20,13 +11,3 @@
 
 
 -----------------------------------------
-  *    .  *       .             *
-                         *
- *   .        *       .       .       *
-   .     *
-           .     .  *        *
-       .                .        .
-.  *           *                     *
-                             .
-         *          .   *
-
