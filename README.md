@@ -37,10 +37,14 @@ I used MongoDB with Flask templating to create a new HTML page that displays all
 
 ## Screenshots
 
-![alt text](Screenshots/screen1.png)
-![alt text](Screenshots/screen2.png)
-![alt text](Screenshots/screen3.png)
+Screenshots from final HTML page:
 
+![screen 1](Screenshots/screen1.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![screen 2](Screenshots/screen2.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+![screen 3](Screenshots/screen3.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## Technologies
 
