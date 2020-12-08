@@ -1,17 +1,19 @@
 # web-scraping-challenge
 
-![alt text](Images/mars.gif)
+Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
+
+![golf gif](Images/mars.gif)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## Table of Contents
-* [Objectives](#objectives)
+* [Objective](#objective)
 * [Step 1](#Step-1)
 * [Step 2](#Step-2)
 * [Screenshots](#Screenshots)
 * [Technologies](#technologies)
 
-## Objectives
+## Objective
 
 In this assignment, I built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
